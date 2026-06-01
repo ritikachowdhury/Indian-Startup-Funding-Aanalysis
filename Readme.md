@@ -1,4 +1,4 @@
-#### **Indian Startup Funding Analysis** 
+#### **Indian Startups Funding Analysis** 
 
 
 
